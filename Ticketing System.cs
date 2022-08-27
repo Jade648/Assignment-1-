@@ -89,7 +89,7 @@ namespace TicketingSystem
                         }
                     }  
                
-                } while (choice == "1" || choice == "2" || choice == "3");
+                } while (choice == "1" || choice == "2");
             }    
         } 
     }
